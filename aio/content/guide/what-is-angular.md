@@ -1,4 +1,4 @@
-# What is Angular?
+# How is Angular?
 
 This topic can help you understand Angular: what Angular is, what advantages it provides, and what you might expect as you start to build your applications.
 
